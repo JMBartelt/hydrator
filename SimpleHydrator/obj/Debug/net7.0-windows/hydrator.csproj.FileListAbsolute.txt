@@ -1,0 +1,45 @@
+C:\Users\JM\Desktop\C# Projects\hydrator\bin\Debug\net7.0-windows\hydrator.exe
+C:\Users\JM\Desktop\C# Projects\hydrator\bin\Debug\net7.0-windows\hydrator.deps.json
+C:\Users\JM\Desktop\C# Projects\hydrator\bin\Debug\net7.0-windows\hydrator.runtimeconfig.json
+C:\Users\JM\Desktop\C# Projects\hydrator\bin\Debug\net7.0-windows\hydrator.dll
+C:\Users\JM\Desktop\C# Projects\hydrator\bin\Debug\net7.0-windows\hydrator.pdb
+C:\Users\JM\Desktop\C# Projects\hydrator\obj\Debug\net7.0-windows\hydrator.csproj.AssemblyReference.cache
+C:\Users\JM\Desktop\C# Projects\hydrator\obj\Debug\net7.0-windows\hydrator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JM\Desktop\C# Projects\hydrator\obj\Debug\net7.0-windows\hydrator.AssemblyInfoInputs.cache
+C:\Users\JM\Desktop\C# Projects\hydrator\obj\Debug\net7.0-windows\hydrator.AssemblyInfo.cs
+C:\Users\JM\Desktop\C# Projects\hydrator\obj\Debug\net7.0-windows\hydrator.csproj.CoreCompileInputs.cache
+C:\Users\JM\Desktop\C# Projects\hydrator\obj\Debug\net7.0-windows\hydrator.dll
+C:\Users\JM\Desktop\C# Projects\hydrator\obj\Debug\net7.0-windows\refint\hydrator.dll
+C:\Users\JM\Desktop\C# Projects\hydrator\obj\Debug\net7.0-windows\hydrator.pdb
+C:\Users\JM\Desktop\C# Projects\hydrator\obj\Debug\net7.0-windows\hydrator.genruntimeconfig.cache
+C:\Users\JM\Desktop\C# Projects\hydrator\obj\Debug\net7.0-windows\ref\hydrator.dll
+C:\Users\JM\Desktop\C# Projects\hydrator\SimpleHydrator\bin\Debug\net7.0-windows\hydrator.exe
+C:\Users\JM\Desktop\C# Projects\hydrator\SimpleHydrator\bin\Debug\net7.0-windows\hydrator.deps.json
+C:\Users\JM\Desktop\C# Projects\hydrator\SimpleHydrator\bin\Debug\net7.0-windows\hydrator.runtimeconfig.json
+C:\Users\JM\Desktop\C# Projects\hydrator\SimpleHydrator\bin\Debug\net7.0-windows\hydrator.dll
+C:\Users\JM\Desktop\C# Projects\hydrator\SimpleHydrator\bin\Debug\net7.0-windows\hydrator.pdb
+C:\Users\JM\Desktop\C# Projects\hydrator\SimpleHydrator\obj\Debug\net7.0-windows\hydrator.csproj.AssemblyReference.cache
+C:\Users\JM\Desktop\C# Projects\hydrator\SimpleHydrator\obj\Debug\net7.0-windows\hydrator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JM\Desktop\C# Projects\hydrator\SimpleHydrator\obj\Debug\net7.0-windows\hydrator.AssemblyInfoInputs.cache
+C:\Users\JM\Desktop\C# Projects\hydrator\SimpleHydrator\obj\Debug\net7.0-windows\hydrator.AssemblyInfo.cs
+C:\Users\JM\Desktop\C# Projects\hydrator\SimpleHydrator\obj\Debug\net7.0-windows\hydrator.csproj.CoreCompileInputs.cache
+C:\Users\JM\Desktop\C# Projects\hydrator\SimpleHydrator\obj\Debug\net7.0-windows\hydrator.dll
+C:\Users\JM\Desktop\C# Projects\hydrator\SimpleHydrator\obj\Debug\net7.0-windows\refint\hydrator.dll
+C:\Users\JM\Desktop\C# Projects\hydrator\SimpleHydrator\obj\Debug\net7.0-windows\hydrator.pdb
+C:\Users\JM\Desktop\C# Projects\hydrator\SimpleHydrator\obj\Debug\net7.0-windows\hydrator.genruntimeconfig.cache
+C:\Users\JM\Desktop\C# Projects\hydrator\SimpleHydrator\obj\Debug\net7.0-windows\ref\hydrator.dll
+C:\Users\thedc\Desktop\Csharp-projects\hydrator\SimpleHydrator\bin\Debug\net7.0-windows\hydrator.exe
+C:\Users\thedc\Desktop\Csharp-projects\hydrator\SimpleHydrator\bin\Debug\net7.0-windows\hydrator.deps.json
+C:\Users\thedc\Desktop\Csharp-projects\hydrator\SimpleHydrator\bin\Debug\net7.0-windows\hydrator.runtimeconfig.json
+C:\Users\thedc\Desktop\Csharp-projects\hydrator\SimpleHydrator\bin\Debug\net7.0-windows\hydrator.dll
+C:\Users\thedc\Desktop\Csharp-projects\hydrator\SimpleHydrator\bin\Debug\net7.0-windows\hydrator.pdb
+C:\Users\thedc\Desktop\Csharp-projects\hydrator\SimpleHydrator\obj\Debug\net7.0-windows\hydrator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thedc\Desktop\Csharp-projects\hydrator\SimpleHydrator\obj\Debug\net7.0-windows\hydrator.AssemblyInfoInputs.cache
+C:\Users\thedc\Desktop\Csharp-projects\hydrator\SimpleHydrator\obj\Debug\net7.0-windows\hydrator.AssemblyInfo.cs
+C:\Users\thedc\Desktop\Csharp-projects\hydrator\SimpleHydrator\obj\Debug\net7.0-windows\hydrator.csproj.CoreCompileInputs.cache
+C:\Users\thedc\Desktop\Csharp-projects\hydrator\SimpleHydrator\obj\Debug\net7.0-windows\hydrator.sourcelink.json
+C:\Users\thedc\Desktop\Csharp-projects\hydrator\SimpleHydrator\obj\Debug\net7.0-windows\hydrator.dll
+C:\Users\thedc\Desktop\Csharp-projects\hydrator\SimpleHydrator\obj\Debug\net7.0-windows\refint\hydrator.dll
+C:\Users\thedc\Desktop\Csharp-projects\hydrator\SimpleHydrator\obj\Debug\net7.0-windows\hydrator.pdb
+C:\Users\thedc\Desktop\Csharp-projects\hydrator\SimpleHydrator\obj\Debug\net7.0-windows\hydrator.genruntimeconfig.cache
+C:\Users\thedc\Desktop\Csharp-projects\hydrator\SimpleHydrator\obj\Debug\net7.0-windows\ref\hydrator.dll

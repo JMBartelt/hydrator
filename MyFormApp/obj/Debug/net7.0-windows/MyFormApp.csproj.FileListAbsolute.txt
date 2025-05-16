@@ -1,0 +1,15 @@
+C:\Users\JM\Desktop\C# Projects\hydrator\MyFormApp\bin\Debug\net7.0-windows\MyFormApp.exe
+C:\Users\JM\Desktop\C# Projects\hydrator\MyFormApp\bin\Debug\net7.0-windows\MyFormApp.deps.json
+C:\Users\JM\Desktop\C# Projects\hydrator\MyFormApp\bin\Debug\net7.0-windows\MyFormApp.runtimeconfig.json
+C:\Users\JM\Desktop\C# Projects\hydrator\MyFormApp\bin\Debug\net7.0-windows\MyFormApp.dll
+C:\Users\JM\Desktop\C# Projects\hydrator\MyFormApp\bin\Debug\net7.0-windows\MyFormApp.pdb
+C:\Users\JM\Desktop\C# Projects\hydrator\MyFormApp\obj\Debug\net7.0-windows\MyFormApp.csproj.AssemblyReference.cache
+C:\Users\JM\Desktop\C# Projects\hydrator\MyFormApp\obj\Debug\net7.0-windows\MyFormApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JM\Desktop\C# Projects\hydrator\MyFormApp\obj\Debug\net7.0-windows\MyFormApp.AssemblyInfoInputs.cache
+C:\Users\JM\Desktop\C# Projects\hydrator\MyFormApp\obj\Debug\net7.0-windows\MyFormApp.AssemblyInfo.cs
+C:\Users\JM\Desktop\C# Projects\hydrator\MyFormApp\obj\Debug\net7.0-windows\MyFormApp.csproj.CoreCompileInputs.cache
+C:\Users\JM\Desktop\C# Projects\hydrator\MyFormApp\obj\Debug\net7.0-windows\MyFormApp.dll
+C:\Users\JM\Desktop\C# Projects\hydrator\MyFormApp\obj\Debug\net7.0-windows\refint\MyFormApp.dll
+C:\Users\JM\Desktop\C# Projects\hydrator\MyFormApp\obj\Debug\net7.0-windows\MyFormApp.pdb
+C:\Users\JM\Desktop\C# Projects\hydrator\MyFormApp\obj\Debug\net7.0-windows\MyFormApp.genruntimeconfig.cache
+C:\Users\JM\Desktop\C# Projects\hydrator\MyFormApp\obj\Debug\net7.0-windows\ref\MyFormApp.dll

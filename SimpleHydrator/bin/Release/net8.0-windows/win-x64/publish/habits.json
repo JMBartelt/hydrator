@@ -1,0 +1,20 @@
+[
+  {
+    "Message": "Drink water!",
+    "Interval": "00:30:00",
+    "TimeOfDay": null,
+    "NextRun": "2025-05-16T16:50:42.7359276-04:00"
+  },
+  {
+    "Message": "Lift Heavy Weight ?\u00B7\u2550\u2550\u00B7?",
+    "Interval": null,
+    "TimeOfDay": "13:20:00",
+    "NextRun": "2025-05-17T13:20:00-04:00"
+  },
+  {
+    "Message": "test habit",
+    "Interval": null,
+    "TimeOfDay": "16:23:00",
+    "NextRun": "2025-05-16T16:23:00-04:00"
+  }
+]

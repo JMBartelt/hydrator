@@ -1,0 +1,13 @@
+C:\Users\thedc\Desktop\Csharp-projects\hydrator\SimpleHydrator\bin\Release\net8.0-windows\win-x64\hydrator.exe
+C:\Users\thedc\Desktop\Csharp-projects\hydrator\SimpleHydrator\bin\Release\net8.0-windows\win-x64\hydrator.deps.json
+C:\Users\thedc\Desktop\Csharp-projects\hydrator\SimpleHydrator\bin\Release\net8.0-windows\win-x64\hydrator.runtimeconfig.json
+C:\Users\thedc\Desktop\Csharp-projects\hydrator\SimpleHydrator\bin\Release\net8.0-windows\win-x64\hydrator.dll
+C:\Users\thedc\Desktop\Csharp-projects\hydrator\SimpleHydrator\obj\Release\net8.0-windows\win-x64\hydrator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thedc\Desktop\Csharp-projects\hydrator\SimpleHydrator\obj\Release\net8.0-windows\win-x64\hydrator.AssemblyInfoInputs.cache
+C:\Users\thedc\Desktop\Csharp-projects\hydrator\SimpleHydrator\obj\Release\net8.0-windows\win-x64\hydrator.AssemblyInfo.cs
+C:\Users\thedc\Desktop\Csharp-projects\hydrator\SimpleHydrator\obj\Release\net8.0-windows\win-x64\hydrator.csproj.CoreCompileInputs.cache
+C:\Users\thedc\Desktop\Csharp-projects\hydrator\SimpleHydrator\obj\Release\net8.0-windows\win-x64\hydrator.sourcelink.json
+C:\Users\thedc\Desktop\Csharp-projects\hydrator\SimpleHydrator\obj\Release\net8.0-windows\win-x64\hydrator.dll
+C:\Users\thedc\Desktop\Csharp-projects\hydrator\SimpleHydrator\obj\Release\net8.0-windows\win-x64\refint\hydrator.dll
+C:\Users\thedc\Desktop\Csharp-projects\hydrator\SimpleHydrator\obj\Release\net8.0-windows\win-x64\hydrator.genruntimeconfig.cache
+C:\Users\thedc\Desktop\Csharp-projects\hydrator\SimpleHydrator\obj\Release\net8.0-windows\win-x64\ref\hydrator.dll
